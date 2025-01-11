@@ -27,7 +27,7 @@ A Python-based language translation tool leveraging the Google Translate API. Us
 
 2. **Install the required dependencies**:
    ```bash
-   pip install googletrans==4.0.0-rc1
+   !pip install googletrans==4.0.0-rc1
    ```
 
 3. **Run the program**:
